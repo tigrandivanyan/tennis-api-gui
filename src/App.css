@@ -1,0 +1,9 @@
+.param{
+    display: flex;
+    height: 30px;
+    align-items: center;
+}
+
+.param .text{
+    min-width: 100px;
+}
